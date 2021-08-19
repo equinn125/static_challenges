@@ -1,0 +1,122 @@
+header {
+  background: darkred;
+  height: 70px;
+  padding: 0 25px;
+}
+header h1 {
+  color: white;
+  font-size: 40px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  float: left
+}
+
+header nav{
+  font-size: 108x;
+  text-decoration: underline;
+  float: right;
+  margin-top: 25px;
+  color: white;
+  margin-bottom: 18px
+}
+
+div {
+  background: dimgray;
+  height: 60px
+}
+
+div ul li{
+  float: right;
+  text-decoration: underline;
+  display: inline-block;
+  padding: 3px
+}
+
+section {
+  float: left;
+  margin: 0 1.5%;
+   width: 60%;
+}
+
+section img {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  padding-left: 20px
+}
+
+section h2 {
+  font-size: 20px;
+  padding-left: 30px;
+  font-weight:bold;
+  padding-bottom: 10px
+}
+
+#first_line{
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+
+#second_line{
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+
+#third_line{
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+#fourth_line{
+  padding-left: 30px;
+  padding-bottom: 20px;
+}
+aside {
+  width: 22%;
+  padding-top: 40px;
+  margin: 10  1.5%;
+  float: right;
+}
+
+aside.first {
+  padding-bottom: 60px;
+}
+
+h3 {
+  font-weight:bold;
+  padding-bottom: 10px
+}
+
+aside.second {
+  padding-bottom: 60px;
+}
+
+h4 {
+  font-weight:bold;
+  padding-bottom: 10px;
+  padding-top: 105px
+}
+
+h5 {
+  font-weight:bold;
+  padding-bottom: 10px;
+  padding-top: 95px
+}
+
+aside.third {
+padding-bottom: 60px;
+}
+
+footer {
+  background: dimgray;
+  height: 60px;
+  clear: both
+}
+
+footer p {
+  font-size: 10px;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px
+}
